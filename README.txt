@@ -1,3 +1,6 @@
 First project Marek 
-install cmake ..
-build  make 
+cd src
+src/ 
+cmake ..
+make
+./Budowanie
